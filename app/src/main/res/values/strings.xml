@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cart Management</string>
+    <string name="back_button">back_button</string>
+    <string name="cart_button">cart_button</string>
+</resources>
